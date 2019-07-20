@@ -1,0 +1,55 @@
+#quest {
+    margin-left: calc(50% - 175px);
+    margin-top: 30px;
+    padding: auto auto;
+}
+
+.block {
+    padding: auto;
+    margin-bottom: 30px;
+}
+
+.block-head {
+    margin: 5px 0;
+}
+
+.question {
+
+}
+
+.mode {
+
+}
+
+.block-remove {
+
+}
+
+.answer {
+    margin: 3px 0;
+}
+
+.answer-select {
+
+}
+
+.answer-answer {
+
+}
+
+.answer-remove {
+
+}
+
+.answer-creator {
+    margin: 3px 0;
+}
+
+#block-creator {
+
+}
+
+#generate {
+    margin-left: 10px;
+    margin-top: -3px;
+}
